@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">lab3</string>
+    <string name="next_button_text">Activity 2</string>
+    <string name="decrease_button_text">-</string>
+    <string name="increase_button_text">+</string>
+    <string name="hint_text">Ваше число</string>
+    <string name="counter_text">0</string>
+</resources>
